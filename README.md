@@ -10,7 +10,7 @@
 
 5) apt install python2
 
-6) cd Virus
+6) cd persian_virus
 
 7)python persian-Virus
 
