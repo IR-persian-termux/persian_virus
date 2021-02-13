@@ -1,3 +1,7 @@
+
+به هیچ عنوان خودتون اجراش نکنین
+Danger! 
+
 <\>commands</>:
 
 1) apt update
